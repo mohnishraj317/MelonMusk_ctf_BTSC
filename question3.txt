@@ -1,0 +1,5 @@
+IE{!_am_hEre_buDdi_2024}
+
+first ran strings command on cmd, found a secretFunction there
+then put the file on ghidra decompiler to get the function
+ran it to get the flag

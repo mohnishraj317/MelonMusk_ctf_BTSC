@@ -1,0 +1,6 @@
+IE{h1ell0_Aq12quiRRmQ_Su11ce8s}
+
+Extracted a dummy and a zip folder from image using binwalk
+then went to the .hidden directory to find a binary which we
+uploaded on ghidra to decompile it
+ran it to get a base64 string and converted that to get the flag
